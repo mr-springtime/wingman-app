@@ -1,0 +1,10 @@
+{
+  "journeys": [
+    {
+      "id": "1",
+      "name": "Social Confidence Starter",
+      "exerciseIds": ["1", "3"],
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}
